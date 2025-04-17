@@ -25,6 +25,14 @@ La aplicación muestra un saludo personalizado al usuario, recibiendo su nombre 
 
 ---
 
+## Estructura del proyecto
+
+- `src/main/java`: Código fuente
+- `pom.xml`: Configuración Maven
+- `README.md`: Este archivo
+
+---
+
 ## Instrucciones de Uso
 
 ### Ejecución de la Aplicación
@@ -43,6 +51,8 @@ Una vez que el JAR esté generado, ejecuta el siguiente comando en la terminal:
   java -jar target/Actividad2-1.0-SNAPSHOT-jar-with-dependencies.jar --name=TuNombre
 ```
 Esto te mostrará un saludo personalizado con el nombre que pases como parámetro:
+
+---
 
 ##Desarrollo del Proyecto
 
